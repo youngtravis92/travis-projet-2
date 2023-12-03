@@ -1,0 +1,32 @@
+table {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    font-size: 20px; 
+}
+table ,tr ,th ,td {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    border-collapse: collapse;
+    padding: 20px;
+    margin: 20px;
+}
+.back {
+    background-color: navy;
+}
+.hunt {
+    background-color: navy;
+}
+.blue {
+    background-color: navy;
+}
+.jule {
+    background-color: navy;
+}
+.nasa {
+    background-color: navy;
+}
+.man {
+    background-color: navy;
+}
