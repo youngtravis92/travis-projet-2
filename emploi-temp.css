@@ -1,9 +1,11 @@
 table {
+    
     border-style: solid;
     border-color: black;
     border-width: 2px;
-    font-size: 20px; 
+    font-size: 40px;
 }
+
 table ,tr ,th ,td {
     border-style: solid;
     border-color: black;
@@ -11,6 +13,22 @@ table ,tr ,th ,td {
     border-collapse: collapse;
     padding: 20px;
     margin: 20px;
+    width: 50%;
+}
+h2 {
+    background-color: green;
+    border-style: solid;
+    border-color: black;
+}
+div {
+    background-color: yellow;
+}
+
+table {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    font-size: 20px; 
 }
 .back {
     background-color: navy;
@@ -29,4 +47,9 @@ table ,tr ,th ,td {
 }
 .man {
     background-color: navy;
+}
+.talk {
+    color: darkgoldenrod;
+    font-size: 50px;
+    text-align: center;
 }
